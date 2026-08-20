@@ -3,8 +3,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/e-commerce',
-  assetPrefix: '/e-commerce/',
 };
 
 export default nextConfig;
